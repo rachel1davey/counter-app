@@ -26,7 +26,7 @@ This project helped reinforce key frontend skills:
 - JavaScript (ES6+)
 
 ### 📚 Credits
-Built by Rachel Davey
+Built by [Rachel Davey](https://github.com/rachel1davey) 
 
 Project based on lessons from the Scrimba Learn JavaScript Course.
 
