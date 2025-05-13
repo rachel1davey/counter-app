@@ -1,15 +1,15 @@
-# 🔢 Counter App
+### 🔢 Counter App
 
 A simple counter application built with HTML, CSS, and JavaScript as part of a Scrimba Learn JavaScript Course.
 
-## 🚀 Features
+### 🚀 Features
 
 - Increment counter button
 - Reset to zero
 - Display updates dynamically
 - Clean and responsive design
 
-## 🎓 Learning Goals
+### 🎓 Learning Goals
 
 This project helped reinforce key frontend skills:
 
@@ -19,7 +19,7 @@ This project helped reinforce key frontend skills:
 - Using `addEventListener` to respond to user interaction
 - Understanding basic app structure
 
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 
 - HTML5
 - CSS3
